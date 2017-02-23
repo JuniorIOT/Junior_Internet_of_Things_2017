@@ -1,0 +1,6 @@
+To install the driver for our serial to USB converter onto Windows10,
+also see http://wp.brodzinski.net/hardware/fake-pl2303-how-to-install/
+
+- control-shift-restart, choose option to restart without driver signing.
+- Unplug your  serial-to-usb device.
+- Search the driver for the chip on the Serial to usb convertor, download and run the installer.  http:\\wp.brodzinski.net\wp-content\uploads\2014\10\IO-Cable_PL-2303_Drivers-Generic_Windows_PL2303_Prolific.zip
