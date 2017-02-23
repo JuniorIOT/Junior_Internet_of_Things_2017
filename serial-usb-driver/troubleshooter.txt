@@ -1,0 +1,10 @@
+bij add/remove software, alle PL-2303 USB-to-Serial installers om echt alle versies van de driver weg te halen.
+
+met control-shift-reboot opstarten in mode waar driver signing niet wordt uitgevoerd
+
+installeer de driver volgens de installer in deze github
+
+steek de usb-to-serial in de usb
+
+in Device manager, driver installeren/kies handmatig/kies op computer geinstalleerd/ scroll naar de prolific of PL-2303 driver, kies de 3.3.2 versie
+reboot
